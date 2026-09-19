@@ -1,39 +1,35 @@
-﻿Console.WriteLine("Calculator ko");
+﻿Console.WriteLine("Hello, World!");
 
-Console.WriteLine("Enter 1st number");
-int num1 = int.Parse(Console.ReadLine());
+Console.WriteLine("I love to learn new things");
+Console.WriteLine("I'm 19 Years Old");
+Console.WriteLine("I'm generous");
+Console.WriteLine("I love exploring the gaming culture");
+Console.WriteLine("I hate Christian Dolotallas");
 
-Console.WriteLine("Enter 2nd number");
-int num2 = int.Parse(Console.ReadLine());
+String name = "Enzo";
+int age = 19;
 
-Console.WriteLine("Enter an operator (+, -, *, /, %)");
-String op = Console.ReadLine();
+Console.WriteLine(name);
+Console.WriteLine(age);
+Console.WriteLine($"Ako si {name} and my age is {age}");
 
-if(op == "+")
-{
-    Console.WriteLine(num1 + num2);
-}
+int num1 = 100000;
+int num2 = 77013;
+ 
+Console.WriteLine(num1 + num2);
+Console.WriteLine(num1 - num2);
+Console.WriteLine(num1 * num2);
+Console.WriteLine(num1 / num2);
+Console.WriteLine(num1 % num2);
 
-else if(op == "-")
-{
-    Console.WriteLine(num1 - num2);
-}
+Console.WriteLine("Enter your name");
+String pangalan = Console.ReadLine();
+Console.WriteLine("Hi, my name is " + pangalan);
 
-else if(op == "*")
-{
-    Console.WriteLine(num1 * num2);
-}
+Console.WriteLine("Enter your age");
+int edad = Convert.ToInt16(Console.ReadLine());
+Console.WriteLine($"My age is {edad}");
 
-else if(op == "%")
-{
-    Console.WriteLine(num1 % num2);
-}
-
-else if(op == "/")
-{
-    Console.WriteLine(num1 / num2);
-    if(num1 == 0 || num2 == 0)
-    {
-        Console.WriteLine("Cannot divide by 0");
-    }
-}
+Console.WriteLine("Lagay mo edad mo ulit");
+int age2 = int.Parse(Console.ReadLine());
+Console.WriteLine($"My edad ulit is {age2}");
