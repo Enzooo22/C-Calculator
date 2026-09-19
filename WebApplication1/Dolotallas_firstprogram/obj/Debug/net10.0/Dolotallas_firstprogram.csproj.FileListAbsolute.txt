@@ -1,0 +1,14 @@
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Dolotallas_firstprogram\bin\Debug\net10.0\Dolotallas_firstprogram.exe
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Dolotallas_firstprogram\bin\Debug\net10.0\Dolotallas_firstprogram.deps.json
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Dolotallas_firstprogram\bin\Debug\net10.0\Dolotallas_firstprogram.runtimeconfig.json
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Dolotallas_firstprogram\bin\Debug\net10.0\Dolotallas_firstprogram.dll
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Dolotallas_firstprogram\bin\Debug\net10.0\Dolotallas_firstprogram.pdb
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Dolotallas_firstprogram\obj\Debug\net10.0\Dolotallas_firstprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Dolotallas_firstprogram\obj\Debug\net10.0\Dolotallas_firstprogram.AssemblyInfoInputs.cache
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Dolotallas_firstprogram\obj\Debug\net10.0\Dolotallas_firstprogram.AssemblyInfo.cs
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Dolotallas_firstprogram\obj\Debug\net10.0\Dolotallas_firstprogram.csproj.CoreCompileInputs.cache
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Dolotallas_firstprogram\obj\Debug\net10.0\Dolotallas_firstprogram.dll
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Dolotallas_firstprogram\obj\Debug\net10.0\refint\Dolotallas_firstprogram.dll
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Dolotallas_firstprogram\obj\Debug\net10.0\Dolotallas_firstprogram.pdb
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Dolotallas_firstprogram\obj\Debug\net10.0\Dolotallas_firstprogram.genruntimeconfig.cache
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Dolotallas_firstprogram\obj\Debug\net10.0\ref\Dolotallas_firstprogram.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Dolotallas_firstprogram/1.0.0": {
+        "runtime": {
+          "Dolotallas_firstprogram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dolotallas_firstprogram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\PUP-CITE-L1PC15\Downloads\Esteban_Calculator\bin\Debug\net10.0\Esteban_Calculator.exe
+C:\Users\PUP-CITE-L1PC15\Downloads\Esteban_Calculator\bin\Debug\net10.0\Esteban_Calculator.deps.json
+C:\Users\PUP-CITE-L1PC15\Downloads\Esteban_Calculator\bin\Debug\net10.0\Esteban_Calculator.runtimeconfig.json
+C:\Users\PUP-CITE-L1PC15\Downloads\Esteban_Calculator\bin\Debug\net10.0\Esteban_Calculator.dll
+C:\Users\PUP-CITE-L1PC15\Downloads\Esteban_Calculator\bin\Debug\net10.0\Esteban_Calculator.pdb
+C:\Users\PUP-CITE-L1PC15\Downloads\Esteban_Calculator\obj\Debug\net10.0\Esteban_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-CITE-L1PC15\Downloads\Esteban_Calculator\obj\Debug\net10.0\Esteban_Calculator.AssemblyInfoInputs.cache
+C:\Users\PUP-CITE-L1PC15\Downloads\Esteban_Calculator\obj\Debug\net10.0\Esteban_Calculator.AssemblyInfo.cs
+C:\Users\PUP-CITE-L1PC15\Downloads\Esteban_Calculator\obj\Debug\net10.0\Esteban_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\PUP-CITE-L1PC15\Downloads\Esteban_Calculator\obj\Debug\net10.0\Esteban_Calculator.dll
+C:\Users\PUP-CITE-L1PC15\Downloads\Esteban_Calculator\obj\Debug\net10.0\refint\Esteban_Calculator.dll
+C:\Users\PUP-CITE-L1PC15\Downloads\Esteban_Calculator\obj\Debug\net10.0\Esteban_Calculator.pdb
+C:\Users\PUP-CITE-L1PC15\Downloads\Esteban_Calculator\obj\Debug\net10.0\Esteban_Calculator.genruntimeconfig.cache
+C:\Users\PUP-CITE-L1PC15\Downloads\Esteban_Calculator\obj\Debug\net10.0\ref\Esteban_Calculator.dll

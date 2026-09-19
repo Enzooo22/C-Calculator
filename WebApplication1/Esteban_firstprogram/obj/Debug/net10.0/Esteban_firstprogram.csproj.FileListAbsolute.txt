@@ -1,0 +1,14 @@
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Esteban_firstprogram\bin\Debug\net10.0\Esteban_firstprogram.exe
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Esteban_firstprogram\bin\Debug\net10.0\Esteban_firstprogram.deps.json
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Esteban_firstprogram\bin\Debug\net10.0\Esteban_firstprogram.runtimeconfig.json
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Esteban_firstprogram\bin\Debug\net10.0\Esteban_firstprogram.dll
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Esteban_firstprogram\bin\Debug\net10.0\Esteban_firstprogram.pdb
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Esteban_firstprogram\obj\Debug\net10.0\Esteban_firstprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Esteban_firstprogram\obj\Debug\net10.0\Esteban_firstprogram.AssemblyInfoInputs.cache
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Esteban_firstprogram\obj\Debug\net10.0\Esteban_firstprogram.AssemblyInfo.cs
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Esteban_firstprogram\obj\Debug\net10.0\Esteban_firstprogram.csproj.CoreCompileInputs.cache
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Esteban_firstprogram\obj\Debug\net10.0\Esteban_firstprogram.dll
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Esteban_firstprogram\obj\Debug\net10.0\refint\Esteban_firstprogram.dll
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Esteban_firstprogram\obj\Debug\net10.0\Esteban_firstprogram.pdb
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Esteban_firstprogram\obj\Debug\net10.0\Esteban_firstprogram.genruntimeconfig.cache
+C:\Users\PUP-CITE-L1PC15\Downloads\WebApplication1\Esteban_firstprogram\obj\Debug\net10.0\ref\Esteban_firstprogram.dll
